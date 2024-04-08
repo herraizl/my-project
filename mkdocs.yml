@@ -1,0 +1,10 @@
+site_name: Colpbol
+site_url: 
+nav:
+    - Home: index.md
+    - Colpbol: colpbol.md
+      - ¿Qué es?: ¿Que es?.md
+      - Historia: historia.md
+      - ¿Qué nos aporta?: ¿Qué nos aporta?.md
+      - Reglamento principal: Reglamento principal.md
+    - About: about.md
