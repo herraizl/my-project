@@ -1,3 +1,4 @@
+# Historia
 El Colpbol nace a través de un 
 proceso de investigación-acción en
 la prctica diaria de las clases de 

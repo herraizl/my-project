@@ -1,3 +1,4 @@
+# ¿Qué es?
 El Colpbol es una nueva modalidad 
 deportiva creada por el profesor de 
 Educación Física Juanjo Bendicho, 
@@ -6,6 +7,8 @@ consolidado como un nuevo referente
 deportivo, innovador e integrador, y 
 con unas grandes potencialidades 
 educativas.
+
+![Imagen](Img/Logotipo-Oficial-del-Colpbol-300x260.png)
 
 
 

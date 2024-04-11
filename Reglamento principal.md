@@ -1,3 +1,4 @@
+# Reglamento principal
 1. Prohibido
   
     - Hacer doble toque.
@@ -20,3 +21,5 @@
 Balón | Jugadores | Duración
 | :-:| :-: | :-: |
 |Forma esférica de plástico, goma o material sintético y de bote dinámico | 7 jugadores | 2 tiempos de 25 minutos con 10 minutos de descanso |
+
+![Imatgen](Img/balo.png)      
